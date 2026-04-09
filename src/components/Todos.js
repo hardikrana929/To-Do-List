@@ -125,8 +125,8 @@ const Todos = () => {
               {searchToDo.length === 0 ? (
                 <img src="https://static.vecteezy.com/system/resources/previews/014/814/192/non_2x/creatively-designed-flat-conceptual-icon-of-no-task-vector.jpg" 
                   alt="Task Not Found"
-                  width="300px"
-                  className="mx-auto d-block"
+                  width="250px"
+                  className="mx-auto d-block "
                 />
                 
               ) : (
