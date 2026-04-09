@@ -123,7 +123,7 @@ const Todos = () => {
               </div>
               {/* Todo List */}
               {searchToDo.length === 0 ? (
-                <img src="https://static.vecteezy.com/system/resources/previews/014/814/192/non_2x/creatively-designed-flat-conceptual-icon-of-no-task-vector.jpg" 
+                <img src="https://cdn-icons-png.flaticon.com/512/5058/5058432.png" 
                   alt="Task Not Found"
                   width="250px"
                   className="mx-auto d-block "
