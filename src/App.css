@@ -1,0 +1,15 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+*{
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.image-logo{
+    width:5vw;
+}
+
+.task-done{
+  text-decoration: line-through;
+  opacity: 0.6;
+}
